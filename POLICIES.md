@@ -1,5 +1,5 @@
 # Política de Privacidade — Dingo
-## Última atualização: 23 de maio de 2026
+## Última atualização: 15 de julho de 2026
 
 A Dingo ("nós", "nosso" ou "aplicativo") respeita a sua privacidade e está comprometida em proteger os dados pessoais dos seus usuários. Esta Política de Privacidade descreve como coletamos, usamos, armazenamos e compartilhamos suas informações ao utilizar nosso aplicativo, em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD).
 
